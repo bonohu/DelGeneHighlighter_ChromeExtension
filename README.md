@@ -5,7 +5,8 @@
 
 （使用例）
 
-![スクリーンショット 2024-12-23 17 04 57](https://github.com/user-attachments/assets/7db0d524-bfb3-498f-aa43-bf76d2e051fa)
+![testimage](https://github.com/user-attachments/assets/b0cc5487-a335-40ec-b9bc-1b5c51ff66b9)
+
 
 Ohno, T., Akase, T., Kono, S. et al. Biallelic and gene-wide genomic substitution for endogenous intron and retroelement mutagenesis in human cells. Nat Commun 13, 4219 (2022). https://doi.org/10.1038/s41467-022-31982-1 より引用・改変
 
