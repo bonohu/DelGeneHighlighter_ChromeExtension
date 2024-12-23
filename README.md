@@ -16,7 +16,7 @@ Ohno, T., Akase, T., Kono, S. et al. Biallelic and gene-wide genomic substitutio
 
 
 ## Install方法
-1. フォルダ（"v1.0"）ごとダウンロードする。
+1. フォルダ（"v1.0"）ごとダウンロードする（<>Code▽ → Download ZIP）。
 2. Chromeの右上にある3点メニュー（︙）をクリックする。
 3. 「拡張機能」→「拡張機能を管理」をクリックする。
 4. 拡張機能ページ右上の「デベロッパーモード」をオンにする。
