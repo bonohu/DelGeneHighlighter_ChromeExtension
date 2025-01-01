@@ -10,7 +10,7 @@
     },
     "web_accessible_resources": [
       {
-        "resources": ["keywords.csv"],
+        "resources": ["g2p_humanDec23_bonohu300.csv"],
         "matches": ["<all_urls>"]
       }
     ],
