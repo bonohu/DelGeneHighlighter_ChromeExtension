@@ -1,6 +1,6 @@
 chrome.action.onClicked.addListener(async (tab) => {
     // CSVファイルを取得
-    const response = await fetch(chrome.runtime.getURL("keywords.csv"));
+    const response = await fetch(chrome.runtime.getURL("g2p_humanDec23_bonohu300.csv"));
     const csvText = await response.text();
     const keywords = parseCSV(csvText);
   
